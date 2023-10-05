@@ -1,2 +1,4 @@
 # control
-control engineering
+##본인 학번 : 2019732043
+##본인 이름 : 조용호
+
